@@ -38,9 +38,6 @@ defaultpack={
 [":keijo4:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo4.tga:28:28",
 [":keijo5:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo5.tga:28:28",
 [":keijo6:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo6.tga:28:28",
-[":keijo7:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo7.tga:28:28",
-[":keijo8:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo8.tga:28:28",
-[":keijo9:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo9.tga:28:28",
 [":kyyryDPS:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\kyyryDPS.tga:28:28",
 [":puuro:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\puuro.tga:28:28",
 };
@@ -84,12 +81,9 @@ emoticons={
 [":keijo4:"]=":keijo4:",
 [":keijo5:"]=":keijo5:",
 [":keijo6:"]=":keijo6:",
-[":keijo7:"]=":keijo7:",
-[":keijo8:"]=":keijo8:",
-[":keijo9:"]=":keijo9:",
 [":kyyryDPS:"]=":kyyryDPS:",
 [":puuro:"]=":puuro:",
 };
 dropdown_options={
-[01]={"Saunan Taakse",":sfnasu:",":loru:",":rahka:",":xavius:",":moi:",":fabu:",":corbyn:",":LUL:",":joulunasu:",":joululoru:",":seat22:",":jojo:",":rage:",":kuppi:",":kipua:",":korvapuusti:",":vituntoiks:",":jojonaamio:",":afghan:",":Skittles:",":panomies:",":Alko:",":Mmmi:",":anime:",":Skull:",":salt:",":pasi:",":ilme:",":rto:",":noot:",":upi:",":Kkona:",":pokkamp:",":keijo1:",":keijo2:",":keijo3:",":keijo4:",":keijo5:",":keijo6:",":keijo7:",":keijo8:",":keijo9:",":kyyryDPS:",":puuro:",},
+[01]={"Saunan Taakse",":sfnasu:",":loru:",":rahka:",":xavius:",":moi:",":fabu:",":corbyn:",":LUL:",":joulunasu:",":joululoru:",":seat22:",":jojo:",":rage:",":kuppi:",":kipua:",":korvapuusti:",":vituntoiks:",":jojonaamio:",":afghan:",":Skittles:",":panomies:",":Alko:",":Mmmi:",":anime:",":Skull:",":salt:",":pasi:",":ilme:",":rto:",":noot:",":upi:",":Kkona:",":pokkamp:",":keijo1:",":keijo2:",":keijo3:",":keijo4:",":keijo5:",":keijo6:",":kyyryDPS:",":puuro:",},
 };
