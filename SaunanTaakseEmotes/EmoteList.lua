@@ -32,12 +32,6 @@ defaultpack={
 [":upi:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\upi.tga:28:28",
 [":Kkona:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\Kkona.tga:28:28",
 [":pokkamp:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\pokkamp.tga:28:28",
-[":keijo1:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo1.tga:28:28",
-[":keijo2:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo2.tga:28:28",
-[":keijo3:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo3.tga:28:28",
-[":keijo4:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo4.tga:28:28",
-[":keijo5:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo5.tga:28:28",
-[":keijo6:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\keijo6.tga:28:28",
 [":kyyryDPS:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\kyyryDPS.tga:28:28",
 [":puuro:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\puuro.tga:28:28",
 };
@@ -75,15 +69,9 @@ emoticons={
 [":upi:"]=":upi:",
 [":Kkona:"]=":Kkona:",
 [":pokkamp:"]=":pokkamp:",
-[":keijo1:"]=":keijo1:",
-[":keijo2:"]=":keijo2:",
-[":keijo3:"]=":keijo3:",
-[":keijo4:"]=":keijo4:",
-[":keijo5:"]=":keijo5:",
-[":keijo6:"]=":keijo6:",
 [":kyyryDPS:"]=":kyyryDPS:",
 [":puuro:"]=":puuro:",
 };
 dropdown_options={
-[01]={"Saunan Taakse",":sfnasu:",":loru:",":rahka:",":xavius:",":moi:",":fabu:",":corbyn:",":LUL:",":joulunasu:",":joululoru:",":seat22:",":jojo:",":rage:",":kuppi:",":kipua:",":korvapuusti:",":vituntoiks:",":jojonaamio:",":afghan:",":Skittles:",":panomies:",":Alko:",":Mmmi:",":anime:",":Skull:",":salt:",":pasi:",":ilme:",":rto:",":noot:",":upi:",":Kkona:",":pokkamp:",":keijo1:",":keijo2:",":keijo3:",":keijo4:",":keijo5:",":keijo6:",":kyyryDPS:",":puuro:",},
+[01]={"Saunan Taakse",":sfnasu:",":loru:",":rahka:",":xavius:",":moi:",":fabu:",":corbyn:",":LUL:",":joulunasu:",":joululoru:",":seat22:",":jojo:",":rage:",":kuppi:",":kipua:",":korvapuusti:",":vituntoiks:",":jojonaamio:",":afghan:",":Skittles:",":panomies:",":Alko:",":Mmmi:",":anime:",":Skull:",":salt:",":pasi:",":ilme:",":rto:",":noot:",":upi:",":Kkona:",":pokkamp:",":kyyryDPS:",":puuro:",},
 };
