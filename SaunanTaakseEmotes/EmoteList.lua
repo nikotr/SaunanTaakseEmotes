@@ -35,6 +35,7 @@ defaultpack={
 [":kyyryDPS:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\kyyryDPS.tga:28:28",
 [":puuro:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\puuro.tga:28:28",
 [":monkaS:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\monkaS.tga:28:28",
+[":corbynPride:"]="Interface\\AddOns\\SaunanTaakseEmotes\\Emotes\\corbynPride.tga:28:28",
 };
 emoticons={
 [":sfnasu:"]=":sfnasu:",
@@ -73,7 +74,8 @@ emoticons={
 [":kyyryDPS:"]=":kyyryDPS:",
 [":puuro:"]=":puuro:",
 [":monkaS:"]=":monkaS:",
+[":corbynPride:"]=":corbynPride:",
 };
 dropdown_options={
-[01]={"Saunan Taakse",":sfnasu:",":loru:",":rahka:",":xavius:",":moi:",":fabu:",":corbyn:",":LUL:",":joulunasu:",":joululoru:",":seat22:",":jojo:",":rage:",":kuppi:",":kipua:",":korvapuusti:",":vituntoiks:",":jojonaamio:",":afghan:",":Skittles:",":panomies:",":Alko:",":Mmmi:",":anime:",":Skull:",":salt:",":pasi:",":ilme:",":rto:",":noot:",":upi:",":Kkona:",":pokkamp:",":kyyryDPS:",":puuro:",":monkaS:",},
+[01]={"Saunan Taakse",":sfnasu:",":loru:",":rahka:",":xavius:",":moi:",":fabu:",":corbyn:",":LUL:",":joulunasu:",":joululoru:",":seat22:",":jojo:",":rage:",":kuppi:",":kipua:",":korvapuusti:",":vituntoiks:",":jojonaamio:",":afghan:",":Skittles:",":panomies:",":Alko:",":Mmmi:",":anime:",":Skull:",":salt:",":pasi:",":ilme:",":rto:",":noot:",":upi:",":Kkona:",":pokkamp:",":kyyryDPS:",":puuro:",":monkaS:",":corbynPride:",},
 };
